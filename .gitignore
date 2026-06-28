@@ -1,7 +1,5 @@
 # Visual Studio
 .vs/
-bin/
-obj/
 
 # Prerequisites
 *.d
